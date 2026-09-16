@@ -1,5 +1,9 @@
+Hello essec world.
 This is my second line of content.
-Hello ESSEC
+I don't know what to do.
+
+Answer : 
+
 git status displays readme.txt in red under the heading "Changes not staged for commit". This means Git detects that readme.txt has been modified since the last commit, but the changes have not been added to the staging area yet.
 
 === Branching & Merging Summary ===
